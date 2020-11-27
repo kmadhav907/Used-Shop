@@ -1,6 +1,9 @@
 # Used-Shop
 A Fully Functional MERN Ecommerce Website
 
+# Demo
+https://usedshopapp.herokuapp.com/
+
 
 ## Features
 
@@ -83,9 +86,6 @@ npm run data:destroy
 
 ```
 Sample User Logins
-
-admin@example.com (Admin)
-123456
 
 john@example.com (Customer)
 123456
