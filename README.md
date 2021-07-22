@@ -13,6 +13,7 @@ https://usedshopapp.herokuapp.com/
 - Express
 - NodeJS
 - MongoDB
+- JWT Token
 
 ## Features
 
