@@ -4,6 +4,15 @@ A Fully Functional MERN Ecommerce Website
 # Demo
 https://usedshopapp.herokuapp.com/
 
+## Built using:
+
+- React
+- Redux
+- React Bootstrap
+- Bootswatch
+- Express
+- NodeJS
+- MongoDB
 
 ## Features
 
